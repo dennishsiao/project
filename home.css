@@ -166,8 +166,9 @@ h2.box3-body {
 
 h2 {
   text-align: center;
+  line-height: 1em;
 }
 
 p {
-  line-height: 1em;
+  line-height: 0.5em;
 }
